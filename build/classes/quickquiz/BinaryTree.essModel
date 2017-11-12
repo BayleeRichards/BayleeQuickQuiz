@@ -1,0 +1,110 @@
+[Box: ::quickquiz - ::<<Unknown>>::AbstractTableModel]
+X=227
+Y=40
+
+[Box: ::quickquiz - ::<<Unknown>>::ActionListener]
+X=1250
+Y=1933
+
+[Box: ::quickquiz - ::<<Unknown>>::Frame]
+X=958
+Y=40
+
+[Box: ::quickquiz - ::<<Unknown>>::JFrame]
+X=548
+Y=40
+
+[Box: ::quickquiz - ::<<Unknown>>::JTableHeader]
+X=20
+Y=40
+
+[Box: ::quickquiz - ::<<Unknown>>::Runnable]
+X=1705
+Y=473
+
+[Box: ::quickquiz - ::<<Unknown>>::Thread]
+X=1910
+Y=473
+
+[Box: ::quickquiz - ::<<Unknown>>::WindowListener]
+X=1459
+Y=1933
+
+[Box: ::quickquiz - ::quickquiz::BinaryTree]
+X=840
+Y=1933
+
+[Box: ::quickquiz - ::quickquiz::btNode]
+X=2208
+Y=40
+
+[Box: ::quickquiz - ::quickquiz::ChatServer]
+X=1593
+Y=40
+
+[Box: ::quickquiz - ::quickquiz::ChatServerThread]
+X=2087
+Y=1933
+
+[Box: ::quickquiz - ::quickquiz::DLinkedList]
+X=635
+Y=1933
+
+[Box: ::quickquiz - ::quickquiz::DLLNode]
+X=2003
+Y=40
+
+[Box: ::quickquiz - ::quickquiz::Instructor]
+X=855
+Y=473
+
+[Box: ::quickquiz - ::quickquiz::InstructorThread]
+X=1677
+Y=1933
+
+[Box: ::quickquiz - ::quickquiz::JLibrary]
+X=1045
+Y=1933
+
+[Box: ::quickquiz - ::quickquiz::Question]
+X=1798
+Y=40
+
+[Box: ::quickquiz - ::quickquiz::QuestionManager]
+X=225
+Y=1933
+
+[Box: ::quickquiz - ::quickquiz::QuestionModel]
+X=20
+Y=1933
+
+[Box: ::quickquiz - ::quickquiz::QuickQuiz]
+X=445
+Y=473
+
+[Box: ::quickquiz - ::quickquiz::QuickQuizStudent]
+X=650
+Y=473
+
+[Box: ::quickquiz - ::quickquiz::QuizTableHeader]
+X=20
+Y=473
+
+[Box: ::quickquiz - ::quickquiz::SortMethods]
+X=430
+Y=1933
+
+[Box: ::quickquiz - ::quickquiz::Student]
+X=1060
+Y=473
+
+[Box: ::quickquiz - ::quickquiz::StudentThread]
+X=1882
+Y=1933
+
+[Diagram: ::quickquiz]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+
